@@ -37,6 +37,6 @@ The dataset used consists of images of potato leaves categorized into three clas
 - Late Blight
 
 ## results
-Our cnn model gave 98% accuracy
-Vgg-16 gave 94% 
-Restnet-50 84#
+Our cnn model gave 98% accuracy,
+Vgg-16 gave 94%,
+Restnet-50 84%,
